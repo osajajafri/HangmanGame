@@ -6,6 +6,7 @@ This project is a fully functional GUI-based implementation of the classic word-
 The game challenges players to guess a randomly selected word from a dictionary file, with limited chances to make mistakes. The GUI is dynamic, intuitive, and responsive, built using clean object-oriented design.
 ________________________________________
 🎯 Objective
+
 To develop a single-player GUI-based Hangman game that:
 
 •	Loads words from a file at runtime
@@ -35,6 +36,7 @@ ________________________________________
 
 ________________________________________
 🖥️ GUI Panels
+
 The GUI is modular and divided into three key panels:
 
 ✅ WordPanel
@@ -102,6 +104,7 @@ Restart or exit after game	✅
 Clean OOP design & separation	✅
 ________________________________________
 🌟 Optional Extensions (Possible ideas)
+
 These features are not implemented (unless you’ve added them), but can be considered for future work:
 
 •	Dynamic word length selection
@@ -116,6 +119,7 @@ These features are not implemented (unless you’ve added them), but can be cons
 
 ________________________________________
 👨‍💻 Developer
+
 Osaja Jafri
 BSc Computer Science (AI)
 Heriot-Watt University Dubai
