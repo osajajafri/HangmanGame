@@ -1,5 +1,7 @@
 🔠 Hangman Game – Java GUI Edition 
+
 📌 Overview
+
 This project is a fully functional GUI-based implementation of the classic word-guessing game Hangman, developed in Java Swing. It was created as part of the F27SB: Software Development 2 coursework at Heriot-Watt University for the 2023/24 academic year.
 The game challenges players to guess a randomly selected word from a dictionary file, with limited chances to make mistakes. The GUI is dynamic, intuitive, and responsive, built using clean object-oriented design.
 ________________________________________
