@@ -71,14 +71,23 @@ ________________________________________
 ________________________________________
 📂 Project Structure
 
+
 src/
+
 ├── Main.java           # Contains main method
+
 ├── MainWindow.java     # JFrame setup, GUI assembly
+
 ├── WordPanel.java      # Displays word with underscores / guessed letters
+
 ├── ButtonPanel.java    # Alphabet buttons (A–Z)
+
 ├── HealthPanel.java    # Lives tracking and visual feedback
+
 ├── WordLoader.java     # Reads word list from file and selects random word
+
 ├── assets/
+
 │   └── words.txt       # Dictionary of words (1 word per line)
 
 
@@ -121,7 +130,9 @@ ________________________________________
 👨‍💻 Developer
 
 Osaja Jafri
+
 BSc Computer Science (AI)
+
 Heriot-Watt University Dubai
 
 
